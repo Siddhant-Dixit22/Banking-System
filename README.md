@@ -1,7 +1,7 @@
 # Banking System
 
 ## Description
-This repository contains a project for creating a banking system website. The primary technologies used are React, TypeScript, and CSS. This project follows a tutorial from JavaScript Mastery. The project is currently a work in progress.
+This repository contains a project for creating a banking system website. The primary technologies used are React, TypeScript, and CSS. The project is currently a work in progress.
 
 ## Project Structure
 - **TypeScript**: Handles the main functionality and logic.
